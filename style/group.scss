@@ -1,0 +1,7 @@
+$group-border-color: #ccc;
+.group{
+  float: left;
+  min-width: 150px;
+  border: 1px dashed $group-border-color;
+  padding: 3px;
+}

@@ -1,0 +1,7 @@
+$column-border-color: #ccc;
+.column{
+  float: left;
+  min-width: 150px;
+  border-right: 1px dashed $column-border-color;
+  padding: 3px;
+}
