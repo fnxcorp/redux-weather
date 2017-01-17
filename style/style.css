@@ -1,13 +1,27 @@
 .column {
-  float: left;
-  min-width: 150px;
-  border-right: 1px dashed #ccc;
-  padding: 3px; }
+    float: left;
+    min-width: 150px;
+    border-right: 1px dashed #ccc;
+    padding: 3px;
+}
 
 .group {
-  float: left;
-  min-width: 150px;
-  border: 1px dashed #ccc;
-  padding: 3px; }
+    float: left;
+    min-width: 150px;
+    border: 1px dashed #ccc;
+    padding: 3px;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
 
 /*# sourceMappingURL=style.css.map */
+
+e.css.map */
